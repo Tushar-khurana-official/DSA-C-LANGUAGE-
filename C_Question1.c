@@ -1,3 +1,5 @@
+#write a program for insertion and deletion operations in an array
+
 #include<stdio.h>
 int main(){
     int arr[10],n,i,choice,idx,num,temp1,temp2;
@@ -43,4 +45,5 @@ int main(){
     }
     
     return 0;
+
 }
